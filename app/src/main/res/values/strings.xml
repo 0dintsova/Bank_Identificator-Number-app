@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BIN</string>
+    <string name="BIN">BIN</string>
+    <string name="get">GET</string>
+    <string name="scheme">scheme</string>
+    <string name="type">type</string>
+    <string name="brand">brand</string>
+    <string name="prepaid">prepaid</string>
+    <string name="cardNumberLength">length</string>
+    <string name="cardNumberLuhn">luhn</string>
+    <string name="country">country</string>
+    <string name="countryLongitude">longitude</string>
+    <string name="countryLatitude">latitude</string>
+    <string name="cardNumber">NUMBER</string>
+    <string name="bankName">name</string>
+    <string name="bankUrl">url</string>
+    <string name="bankPhoneNum">phone</string>
+
+
+</resources>

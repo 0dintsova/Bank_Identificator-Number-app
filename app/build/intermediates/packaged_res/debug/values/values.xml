@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#2E3138</color>
+    <color name="brown_200">#716A5D</color>
+    <color name="brown_700">#60463B</color>
+    <color name="purple_200">#CCC9E7</color>
+    <color name="purple_500">#6C6F7D</color>
+    <color name="purple_700">#41444A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="BIN">BIN</string>
+    <string name="app_name">BIN</string>
+    <string name="bankName">name</string>
+    <string name="bankPhoneNum">phone</string>
+    <string name="bankUrl">url</string>
+    <string name="brand">brand</string>
+    <string name="cardNumber">NUMBER</string>
+    <string name="cardNumberLength">length</string>
+    <string name="cardNumberLuhn">luhn</string>
+    <string name="country">country</string>
+    <string name="countryLatitude">latitude</string>
+    <string name="countryLongitude">longitude</string>
+    <string name="get">GET</string>
+    <string name="prepaid">prepaid</string>
+    <string name="scheme">scheme</string>
+    <string name="type">type</string>
+    <style name="Theme.BIN" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/brown_200</item>
+        <item name="colorSecondaryVariant">@color/brown_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
